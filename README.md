@@ -17,6 +17,10 @@ Do produkcji wykorzystano technologie **Flutter, dart** i **Hive**.
 Każdy obiekt ma przypisane tagi do interpretacji elementu. Użytkownik powinien zadawać pytania, szukając części wspólnych i dedukując podobieństwa.
 Za zgromadzoną walutę można odblokować dodatkowe elementy wizualne i personalizować swojego detektywa.
 
+Wersje językowe:
+  - angielski
+  - polski
+  - niemiecki
 
 ## ✨ Funkcje
 - Rozwiązywanie losowych zagadek kryminalnych (6 tematycznych kategorii),
